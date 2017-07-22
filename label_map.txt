@@ -1,0 +1,196 @@
+audi tt hatchback 2011 00000
+land rover range rover suv 2012 00001
+chrysler pt cruiser convertible 2008 00002
+jeep liberty suv 2012 00003
+bentley continental gt coupe 2012 00004
+infiniti g coupe ipl 2012 00005
+maybach landaulet convertible 2012 00006
+porsche panamera sedan 2012 00007
+dodge caravan minivan 1997 00008
+chevrolet silverado 1500 hybrid crew cab 2012 00009
+jeep grand cherokee suv 2012 00010
+gmc yukon hybrid suv 2012 00011
+audi s5 coupe 2012 00012
+chevrolet monte carlo coupe 2007 00013
+fiat 500 convertible 2012 00014
+bmw m3 coupe 2012 00015
+dodge journey suv 2012 00016
+dodge charger srt8 2009 00017
+suzuki sx4 hatchback 2012 00018
+toyota 4runner suv 2012 00019
+chrysler crossfire convertible 2008 00020
+chevrolet silverado 1500 extended cab 2012 00021
+bentley continental flying spur sedan 2007 00022
+ford mustang convertible 2007 00023
+acura tl sedan 2012 00024
+suzuki aerio sedan 2007 00025
+infiniti qx56 suv 2011 00026
+honda odyssey minivan 2012 00027
+chrysler town and country minivan 2012 00028
+honda accord coupe 2012 00029
+dodge dakota crew cab 2010 00030
+hummer h2 sut crew cab 2009 00031
+buick verano sedan 2012 00032
+cadillac srx suv 2012 00033
+chevrolet cobalt ss 2010 00034
+bmw 3 series wagon 2012 00035
+dodge caliber wagon 2007 00036
+volvo 240 sedan 1993 00037
+volkswagen beetle hatchback 2012 00038
+mercedes-benz sprinter van 2012 00039
+jeep wrangler suv 2012 00040
+audi s4 sedan 2012 00041
+mercedes-benz c-class sedan 2012 00042
+suzuki kizashi sedan 2012 00043
+acura integra type-r 2001 00044
+nissan leaf hatchback 2012 00045
+isuzu ascender suv 2008 00046
+spyker c8 convertible 2009 00047
+audi s5 convertible 2012 00048
+hyundai elantra touring hatchback 2012 00049
+daewoo nubira wagon 2002 00050
+chevrolet corvette ron fellows edition z06 2007 00051
+aston martin virage convertible 2012 00052
+mclaren mp4-12c coupe 2012 00053
+spyker c8 coupe 2009 00054
+bugatti veyron 16.4 convertible 2009 00055
+chevrolet malibu sedan 2007 00056
+audi v8 sedan 1994 00057
+acura tl type-s 2008 00058
+hyundai tucson suv 2012 00059
+audi s4 sedan 2007 00060
+acura rl sedan 2012 00061
+ford e-series wagon van 2012 00062
+chevrolet traverse suv 2012 00063
+volvo xc90 suv 2007 00064
+dodge charger sedan 2012 00065
+dodge durango suv 2007 00066
+chevrolet express cargo van 2007 00067
+chevrolet silverado 1500 classic extended cab 2007 00068
+bmw m6 convertible 2010 00069
+dodge ram pickup 3500 crew cab 2010 00070
+ford ranger supercab 2011 00071
+bmw 1 series convertible 2012 00072
+chevrolet sonic sedan 2012 00073
+buick rainier suv 2007 00074
+chevrolet silverado 2500hd regular cab 2012 00075
+volvo c30 hatchback 2012 00076
+hyundai elantra sedan 2007 00077
+ford focus sedan 2007 00078
+chevrolet tahoe hybrid suv 2012 00079
+audi tts coupe 2012 00080
+chevrolet express van 2007 00081
+bentley arnage sedan 2009 00082
+chevrolet trailblazer ss 2009 00083
+ferrari 458 italia convertible 2012 00084
+gmc canyon extended cab 2012 00085
+bmw x5 suv 2007 00086
+bentley mulsanne sedan 2011 00087
+ferrari ff coupe 2012 00088
+bentley continental gt coupe 2007 00089
+bmw z4 convertible 2012 00090
+eagle talon hatchback 1998 00091
+chevrolet avalanche crew cab 2012 00092
+chevrolet camaro convertible 2012 00093
+dodge challenger srt8 2011 00094
+hyundai accent sedan 2012 00095
+ford freestar minivan 2007 00096
+ford gt coupe 2006 00097
+gmc savana van 2012 00098
+geo metro convertible 1993 00099
+acura tsx sedan 2012 00100
+hyundai veracruz suv 2012 00101
+ford f-150 regular cab 2012 00102
+hyundai sonata sedan 2012 00103
+audi a5 coupe 2012 00104
+audi 100 wagon 1994 00105
+chevrolet malibu hybrid sedan 2010 00106
+aston martin v8 vantage coupe 2012 00107
+mercedes-benz 300-class convertible 1993 00108
+hyundai azera sedan 2012 00109
+lamborghini diablo coupe 2001 00110
+honda accord sedan 2012 00111
+bmw 3 series sedan 2012 00112
+cadillac escalade ext crew cab 2007 00113
+tesla model s sedan 2012 00114
+volkswagen golf hatchback 1991 00115
+mercedes-benz e-class sedan 2012 00116
+aston martin virage coupe 2012 00117
+bugatti veyron 16.4 coupe 2009 00118
+chevrolet silverado 1500 regular cab 2012 00119
+rolls-royce phantom sedan 2012 00120
+bmw x3 suv 2012 00121
+am general hummer suv 2000 00122
+mini cooper roadster convertible 2012 00123
+bmw m5 sedan 2010 00124
+hyundai santa fe suv 2012 00125
+fiat 500 abarth 2012 00126
+scion xd hatchback 2012 00127
+rolls-royce ghost sedan 2012 00128
+buick regal gs 2012 00129
+hummer h3t crew cab 2010 00130
+ford fiesta sedan 2012 00131
+lamborghini gallardo lp 570-4 superleggera 2012 00132
+jeep patriot suv 2012 00133
+dodge sprinter cargo van 2009 00134
+dodge ram pickup 3500 quad cab 2009 00135
+ford edge suv 2012 00136
+bentley continental supersports conv. convertible 2012 00137
+chevrolet corvette convertible 2012 00138
+suzuki sx4 sedan 2012 00139
+lamborghini reventon coupe 2008 00140
+chrysler sebring convertible 2010 00141
+jaguar xk xkr 2012 00142
+toyota camry sedan 2012 00143
+ferrari california convertible 2012 00144
+chevrolet corvette zr1 2012 00145
+audi s6 sedan 2011 00146
+cadillac cts-v sedan 2012 00147
+chevrolet impala sedan 2007 00148
+toyota corolla sedan 2012 00149
+ram c-v cargo van minivan 2012 00150
+nissan nv passenger van 2012 00151
+hyundai genesis sedan 2012 00152
+land rover lr2 suv 2012 00153
+volkswagen golf hatchback 2012 00154
+ferrari 458 italia coupe 2012 00155
+ford expedition el suv 2009 00156
+buick enclave suv 2012 00157
+dodge durango suv 2012 00158
+gmc terrain suv 2012 00159
+rolls-royce phantom drophead coupe convertible 2012 00160
+bmw 6 series convertible 2007 00161
+dodge dakota club cab 2007 00162
+ford f-450 super duty crew cab 2012 00163
+chevrolet hhr ss 2010 00164
+mazda tribute suv 2011 00165
+lamborghini aventador coupe 2012 00166
+nissan juke hatchback 2012 00167
+honda odyssey minivan 2007 00168
+aston martin v8 vantage convertible 2012 00169
+ford f-150 regular cab 2007 00170
+acura zdx hatchback 2012 00171
+mercedes-benz s-class sedan 2012 00172
+audi tt rs coupe 2012 00173
+gmc acadia suv 2012 00174
+bmw 1 series coupe 2012 00175
+audi rs 4 convertible 2008 00176
+plymouth neon coupe 1999 00177
+smart fortwo convertible 2012 00178
+bmw x6 suv 2012 00179
+chrysler aspen suv 2009 00180
+dodge caliber wagon 2012 00181
+audi 100 sedan 1994 00182
+dodge magnum wagon 2008 00183
+jeep compass suv 2012 00184
+toyota sequoia suv 2012 00185
+nissan 240sx coupe 1998 00186
+audi r8 coupe 2012 00187
+mercedes-benz sl-class coupe 2009 00188
+lincoln town car sedan 2011 00189
+fisker karma sedan 2012 00190
+hyundai veloster hatchback 2012 00191
+hyundai sonata hybrid sedan 2012 00192
+mitsubishi lancer sedan 2012 00193
+chrysler 300 srt8 2010 00194
+bmw activehybrid 5 sedan 2012 00195

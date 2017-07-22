@@ -1,0 +1,19 @@
+net: "/data1/liangdas/multi_labels/caffe_script/car_multi/data/googLeNet_multilabel.prototxt"
+test_iter: 100
+test_interval: 1000 
+test_initialization: true
+
+max_iter: 300000	
+base_lr: 0.001			
+lr_policy: "multistep"
+stepvalue:150000
+gamma: 0.1
+momentum: 0.9			
+weight_decay: 0.0001	
+display: 100
+
+snapshot: 60000
+snapshot_prefix: "/data1/liangdas/multi_labels/caffe_script/car_multi/data/googLenet_fine_tuning/googLenet"
+solver_mode: GPU
+
+random_seed: 34234562302122  
