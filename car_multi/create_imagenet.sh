@@ -41,7 +41,7 @@ GLOG_logtostderr=1 $TOOLS/convert_multilabel \
     --resize_height=227 \
     --resize_width=227 \
     $TRAIN_DATA_ROOT/ \
-    $TRAIN_DATA_ROOT/label.txt \
+    $TRAIN_DATA_ROOT/new_label_train.txt \
     $TRAIN_DATA_ROOT/imagenet_train_lmdb \
     $TRAIN_DATA_ROOT/imagenet_train_label \
     3
@@ -51,7 +51,7 @@ GLOG_logtostderr=1 $TOOLS/convert_multilabel \
     --resize_height=227 \
     --resize_width=227 \
     $TRAIN_DATA_ROOT/ \
-    $TRAIN_DATA_ROOT/.txt \
+    $TRAIN_DATA_ROOT/new_label_test.txt \
     $TRAIN_DATA_ROOT/imagenet_test_lmdb \
     $TRAIN_DATA_ROOT/imagenet_test_label \
     3
