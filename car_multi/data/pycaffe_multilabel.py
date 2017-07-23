@@ -127,11 +127,7 @@ if __name__=='__main__':
     result_txt.write('accuracy is %.4f'%accuracy+'\n')
     result_txt.close()
     test_txt.close()
-           # car_year.append(line_split[1])
-            
-           # car_type.append(line_split[2])
-            
-           # car_name.append(line_split[-1])
+          
     
    # image_path='/data1/liangdas/multi_labels/caffe_script/car_multi/data/003913.jpg'
   #  image=caffe.io.load_image(image_path)
