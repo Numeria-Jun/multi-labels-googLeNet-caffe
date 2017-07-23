@@ -9,9 +9,13 @@ Download convert_multilabel.cpp replace convert_imageset.cpp, and download class
 then recompile caffe with using command lines:
 
 make clean
+
 make all
+
 make test
+
 make pycaffe
+
 make runtest
 
 
